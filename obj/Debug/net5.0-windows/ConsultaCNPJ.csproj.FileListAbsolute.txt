@@ -1,0 +1,16 @@
+C:\Users\Thiago\Desktop\ConsultaCNPJ\ConsultaCNPJ\bin\Debug\net5.0-windows\ConsultaCNPJ.exe
+C:\Users\Thiago\Desktop\ConsultaCNPJ\ConsultaCNPJ\bin\Debug\net5.0-windows\ConsultaCNPJ.deps.json
+C:\Users\Thiago\Desktop\ConsultaCNPJ\ConsultaCNPJ\bin\Debug\net5.0-windows\ConsultaCNPJ.runtimeconfig.json
+C:\Users\Thiago\Desktop\ConsultaCNPJ\ConsultaCNPJ\bin\Debug\net5.0-windows\ConsultaCNPJ.runtimeconfig.dev.json
+C:\Users\Thiago\Desktop\ConsultaCNPJ\ConsultaCNPJ\bin\Debug\net5.0-windows\ConsultaCNPJ.dll
+C:\Users\Thiago\Desktop\ConsultaCNPJ\ConsultaCNPJ\bin\Debug\net5.0-windows\ref\ConsultaCNPJ.dll
+C:\Users\Thiago\Desktop\ConsultaCNPJ\ConsultaCNPJ\bin\Debug\net5.0-windows\ConsultaCNPJ.pdb
+C:\Users\Thiago\Desktop\ConsultaCNPJ\ConsultaCNPJ\obj\Debug\net5.0-windows\ConsultaCNPJ.csproj.AssemblyReference.cache
+C:\Users\Thiago\Desktop\ConsultaCNPJ\ConsultaCNPJ\obj\Debug\net5.0-windows\ConsultaCNPJ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago\Desktop\ConsultaCNPJ\ConsultaCNPJ\obj\Debug\net5.0-windows\ConsultaCNPJ.AssemblyInfoInputs.cache
+C:\Users\Thiago\Desktop\ConsultaCNPJ\ConsultaCNPJ\obj\Debug\net5.0-windows\ConsultaCNPJ.AssemblyInfo.cs
+C:\Users\Thiago\Desktop\ConsultaCNPJ\ConsultaCNPJ\obj\Debug\net5.0-windows\ConsultaCNPJ.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Desktop\ConsultaCNPJ\ConsultaCNPJ\obj\Debug\net5.0-windows\ConsultaCNPJ.dll
+C:\Users\Thiago\Desktop\ConsultaCNPJ\ConsultaCNPJ\obj\Debug\net5.0-windows\ref\ConsultaCNPJ.dll
+C:\Users\Thiago\Desktop\ConsultaCNPJ\ConsultaCNPJ\obj\Debug\net5.0-windows\ConsultaCNPJ.pdb
+C:\Users\Thiago\Desktop\ConsultaCNPJ\ConsultaCNPJ\obj\Debug\net5.0-windows\ConsultaCNPJ.genruntimeconfig.cache
